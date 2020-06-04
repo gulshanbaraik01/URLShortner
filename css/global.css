@@ -1,0 +1,28 @@
+*{
+
+	color: #fff;
+}
+
+.bg{
+	background-color: rgb(63, 61, 61); 
+}
+.form-container{border :1px solid #fff; padding: 50px 40px; margin-top: 15vh;}
+
+
+  table {
+	border-collapse: collapse;
+	border-spacing: 0;
+	width: 100%;
+	border: 1px solid #ddd;
+
+  }
+  
+ th, td {
+	text-align: left;
+	padding: 8px;
+
+
+  }
+ tr:nth-child(even){background-color: #1b1919;}
+
+
